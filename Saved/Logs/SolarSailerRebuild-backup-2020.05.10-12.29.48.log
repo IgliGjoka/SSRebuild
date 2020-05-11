@@ -1,0 +1,1306 @@
+﻿Log file open, 05/10/20 11:08:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SolarSailerRebuild
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.708283
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal Engine/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.10-10.08.43:404][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.10-10.08.43:404][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Engine.ini]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Engine.ini]
+[2020.05.10-10.08.43:405][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Engine.ini]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Engine.ini]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.10-10.08.43:405][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Engine.ini]
+[2020.05.10-10.08.43:405][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Engine.ini]
+[2020.05.10-10.08.43:411][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Scalability.ini]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Scalability.ini]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Scalability.ini]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Scalability.ini]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.10-10.08.43:411][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Scalability.ini]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Scalability.ini]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Scalability.ini]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Scalability.ini]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.10-10.08.43:412][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.10-10.08.43:413][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.10-10.08.43:413][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.10-10.08.43:421][  0]LogHAL: Display: Platform has ~ 16 GB [17128656896 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.10-10.08.43:421][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.10-10.08.43:421][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Scalability.ini]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Scalability.ini]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Scalability.ini]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Scalability.ini]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.10-10.08.43:421][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Scalability.ini]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Scalability.ini]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Scalability.ini]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Scalability.ini]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.10-10.08.43:422][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.10-10.08.43:425][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.10-10.08.43:425][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.10-10.08.43:425][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Config/Windows/Engine.ini]
+[2020.05.10-10.08.43:426][  0]LogInit: Computer: DESKTOP-7ULPCI5
+[2020.05.10-10.08.43:426][  0]LogInit: User: Andre
+[2020.05.10-10.08.43:426][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.10-10.08.43:426][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.10-10.08.43:426][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.05.10-10.08.43:426][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.10-10.08.43:426][  0]LogMemory: Process Physical Memory: 106.00 MB used, 106.00 MB peak
+[2020.05.10-10.08.43:426][  0]LogMemory: Process Virtual Memory: 101.53 MB used, 101.53 MB peak
+[2020.05.10-10.08.43:426][  0]LogMemory: Physical Memory: 7245.67 MB used,  9089.49 MB free, 16335.16 MB total
+[2020.05.10-10.08.43:426][  0]LogMemory: Virtual Memory: 5159.30 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.05.10-10.08.43:434][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.10-10.08.43:623][  0]LogInit: Using OS detected language (en-US).
+[2020.05.10-10.08.43:623][  0]LogInit: Using OS detected locale (en-GB).
+[2020.05.10-10.08.43:625][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.10-10.08.43:833][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.10-10.08.43:898][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.10-10.08.43:898][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.10-10.08.44:194][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.10-10.08.44:194][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.10-10.08.44:194][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.10-10.08.44:194][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.10-10.08.44:256][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.05.10-10.08.44:256][  0]LogD3D11RHI:       6052/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.10-10.08.44:258][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.10-10.08.44:258][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.10-10.08.44:258][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.10-10.08.44:266][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.10-10.08.44:267][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.10-10.08.44:267][  0]LogWindows: EnumDisplayDevices:
+[2020.05.10-10.08.44:267][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.05.10-10.08.44:267][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.05.10-10.08.44:267][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.10-10.08.44:267][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.05.10-10.08.44:268][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.10-10.08.44:268][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.05.10-10.08.44:268][  0]LogD3D11RHI:   Driver Version: 441.41 (internal:26.21.14.4141, unified:441.41)
+[2020.05.10-10.08.44:268][  0]LogD3D11RHI:      Driver Date: 11-20-2019
+[2020.05.10-10.08.44:268][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.05.10-10.08.44:310][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.10-10.08.44:311][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.10-10.08.44:346][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.10-10.08.44:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.10-10.08.44:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.10-10.08.44:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.10-10.08.44:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.10-10.08.44:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.10-10.08.44:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.10-10.08.44:782][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.10-10.08.44:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.10-10.08.44:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.10-10.08.44:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.10-10.08.44:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.10-10.08.44:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.10-10.08.44:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.10-10.08.44:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.10-10.08.44:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.10-10.08.44:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.10-10.08.44:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.10-10.08.44:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.10-10.08.44:886][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.10-10.08.44:903][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.10-10.08.45:004][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Intermediate/Shaders/WorkingDirectory/17452/).
+[2020.05.10-10.08.45:005][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Andre/AppData/Local/Temp/UnrealShaderWorkingDir/F1D0167C45807C42E225DF83EB4658E5/'.
+[2020.05.10-10.08.45:006][  0]LogXGEController: Cleaning working directory: C:/Users/Andre/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.10-10.08.45:006][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.10-10.08.45:006][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.10-10.08.45:006][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.10-10.08.45:834][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.10-10.08.46:050][  0]LogDerivedDataCache: Loaded boot cache 0.22s 78MB C:/Users/Andre/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.10-10.08.46:050][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Andre/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.10-10.08.46:050][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.10-10.08.46:050][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.10-10.08.46:050][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.10-10.08.46:050][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.10-10.08.46:064][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.10-10.08.46:064][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.10-10.08.46:064][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.10-10.08.46:066][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.10-10.08.46:066][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.10-10.08.46:066][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.10-10.08.46:089][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.10-10.08.46:097][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.10-10.08.46:103][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.10-10.08.46:221][  0]LogAssetRegistry: FAssetRegistry took 0.0052 seconds to start up
+[2020.05.10-10.08.46:636][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.10-10.08.46:885][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.10-10.08.46:885][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.10-10.08.46:885][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.10-10.08.46:885][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.10-10.08.46:885][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.10-10.08.46:918][  0]LogNetVersion: SolarSailerRebuild 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3931588009)
+[2020.05.10-10.08.48:697][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.040745 seconds
+[2020.05.10-10.08.48:704][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.10-10.08.48:704][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.05.10-10.08.48:704][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.10-10.08.49:526][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.10-10.08.49:535][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.10-10.08.49:677][  0]SourceControl: Source control is disabled
+[2020.05.10-10.08.50:192][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.10-10.08.50:192][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.10-10.08.50:427][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.10-10.08.50:457][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.10-10.08.50:458][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.10-10.08.50:589][  0]LogOcInput: OculusInput pre-init called
+[2020.05.10-10.08.50:607][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.10-10.08.50:607][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.10-10.08.50:725][  0]LogEngine: Initializing Engine...
+[2020.05.10-10.08.50:727][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.10-10.08.50:730][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.05.10-10.08.51:037][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.10-10.08.51:073][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.10-10.08.51:086][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.10-10.08.51:086][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.10-10.08.51:086][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.10-10.08.51:086][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.10-10.08.51:086][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.10-10.08.51:086][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.10-10.08.51:086][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.10-10.08.51:086][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.10-10.08.51:087][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.10-10.08.51:087][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.10-10.08.51:111][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.10-10.08.51:111][  0]LogAudioMixer: Display: Name: Speakers (3- USBZH5XK)
+[2020.05.10-10.08.51:111][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.10-10.08.51:111][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.10-10.08.51:111][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.10-10.08.51:111][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.10-10.08.51:111][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.10-10.08.51:111][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.10-10.08.51:111][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.10-10.08.51:127][  0]LogAudioMixer: Display: Using Audio Device Speakers (3- USBZH5XK)
+[2020.05.10-10.08.51:132][  0]LogInit: FAudioDevice initialized.
+[2020.05.10-10.08.51:132][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.10-10.08.51:208][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Andre/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.10-10.08.51:208][  0]LogInit: Texture streaming: Enabled
+[2020.05.10-10.08.51:233][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.10-10.08.51:233][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.10-10.08.51:237][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.10-10.08.51:300][  0]LogInit: Transaction tracking system initialized
+[2020.05.10-10.08.51:352][  0]BlueprintLog: New page: Editor Load
+[2020.05.10-10.08.51:506][  0]LocalizationService: Localization service is disabled
+[2020.05.10-10.08.51:655][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.10-10.08.51:655][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.05.10-10.08.51:900][  0]LogFileCache: Scanning file cache for directory 'E:/JS-Repos/SSRebuild/SolarSailerRebuild/Content/' took 0.00s
+[2020.05.10-10.08.51:900][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.10-10.08.51:900][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.10-10.08.52:728][  0]Cmd: MAP LOAD FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.10-10.08.52:729][  0]LightingResults: New page: Lighting Build
+[2020.05.10-10.08.52:735][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-10.08.52:735][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.10-10.08.52:735][  0]MapCheck: New page: Map Check
+[2020.05.10-10.08.52:736][  0]LightingResults: New page: Lighting Build
+[2020.05.10-10.08.52:760][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.05.10-10.08.53:278][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.05.10-10.08.53:307][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.10-10.08.53:338][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.05.10-10.08.53:339][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.10-10.08.53:339][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.351ms to complete.
+[2020.05.10-10.08.53:339][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.612
+[2020.05.10-10.08.53:512][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.10-10.08.53:520][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.10-10.08.53:527][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.10-10.08.53:533][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.10-10.08.53:747][  0]LogSlate: Took 0.004234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.10-10.08.53:753][  0]LogSlate: Took 0.003840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.10-10.08.53:834][  0]LogRenderer: Reallocating scene render targets to support 1208x924 Format 10 NumSamples 1 (Frame:1).
+[2020.05.10-10.08.53:930][  0]LogLoad: (Engine Initialization) Total time: 13.83 seconds
+[2020.05.10-10.08.53:930][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.10-10.08.53:991][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.10-10.08.54:062][  2]LogAssetRegistry: Asset discovery search completed in 7.8436 seconds
+[2020.05.10-10.08.54:075][  2]LogCollectionManager: Loaded 0 collections in 0.001000 seconds
+[2020.05.10-10.08.54:077][  2]LogFileCache: Scanning file cache for directory 'E:/JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Collections/' took 0.00s
+[2020.05.10-10.08.54:077][  2]LogFileCache: Scanning file cache for directory 'E:/JS-Repos/SSRebuild/SolarSailerRebuild/Content/Developers/Andre/Collections/' took 0.00s
+[2020.05.10-10.08.54:077][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2020.05.10-10.08.54:091][  3]LogFileCache: Scanning file cache for directory 'E:/JS-Repos/SSRebuild/SolarSailerRebuild/Content/Collections/' took 0.00s
+[2020.05.10-10.43.56:406][148]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 3017 classes and 720 folders.
+[2020.05.10-10.43.56:415][148]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.10-10.43.56:561][148]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.10-10.43.56:567][148]LogSlate: Took 0.001091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.10-10.43.56:583][148]LogSlate: Took 0.000847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.10-10.44.51:803][724]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.10-10.44.53:730][724]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.05.10-10.45.06:150][198]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-10.45.06:327][198]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.05.10-10.45.08:838][394]LogSlate: Window 'BP_ToolHolder' being destroyed
+[2020.05.10-10.45.10:432][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-10.45.10:439][575]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder4BA4852F4DB204100BA0889F1482EBD1.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-10.45.10:596][575]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-10.45.10:596][575]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-10.45.15:246][124]LogSlate: Took 0.004062 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.10-10.45.17:453][380]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.10-10.45.26:329][418]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-10.45.26:534][418]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.05.10-10.45.26:629][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-10.45.26:645][418]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder4B3CB9BE45E493F682EAFDBDBDE7DFCD.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-10.45.26:655][418]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-10.45.26:655][418]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-10.45.27:236][486]LogSlate: Took 0.003642 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.10-10.45.33:130][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-10.45.33:136][168]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolderF475A28A407928BEE8175ABBDDF35E73.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-10.45.33:147][168]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-10.45.33:147][168]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-10.45.38:249][761]LogSlate: Window 'Source Control Login' being destroyed
+[2020.05.10-10.45.42:511][216]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-10.45.42:705][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.05.10-10.46.17:835][313]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-10.46.18:041][313]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.05.10-10.46.18:147][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-10.46.18:154][313]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolderDB2E4C7C413EB6E9FD3761AFF5BC6D06.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-10.46.18:165][313]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-10.46.18:165][313]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-10.46.34:115][211]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interfaces/InteractInterface.InteractInterface
+[2020.05.10-10.47.02:855][612]LogSlate: Took 0.003557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.05.10-10.47.17:291][303]BlueprintLog: New page: Compile InteractInterface
+[2020.05.10-10.47.17:327][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.05.10-10.47.17:414][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfaces/InteractInterface" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Interfaces/InteractInterface.uasset" SILENT=true
+[2020.05.10-10.47.17:421][303]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/InteractInterfaceA28102CB491B59DB6D391AB25D765E20.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Interfaces/InteractInterface.uasset'
+[2020.05.10-10.47.17:433][303]AssetCheck: New page: Asset Save: InteractInterface
+[2020.05.10-10.47.17:433][303]LogContentValidation: Display: Validating Blueprint /Game/Interfaces/InteractInterface.InteractInterface
+[2020.05.10-10.47.18:112][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfaces/InteractInterface" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Interfaces/InteractInterface.uasset" SILENT=true
+[2020.05.10-10.47.18:118][372]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/InteractInterface5C8BCCCE4322CFDA5A96F186A62DBBDB.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Interfaces/InteractInterface.uasset'
+[2020.05.10-10.47.18:127][372]AssetCheck: New page: Asset Save: InteractInterface
+[2020.05.10-10.47.18:127][372]LogContentValidation: Display: Validating Blueprint /Game/Interfaces/InteractInterface.InteractInterface
+[2020.05.10-10.47.20:191][614]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-10.47.20:391][614]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.05.10-10.47.20:479][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-10.47.20:486][614]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder116559AC49427D24D699DDB758C47A0B.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-10.47.20:497][614]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-10.47.20:497][614]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-10.48.24:569][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.05.10-10.48.24:569][203]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.032
+[2020.05.10-10.48.24:570][203]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/CharacterStuff/BP_ToolHolder] ([1] browsable assets)...
+[2020.05.10-10.48.24:570][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CharacterStuff/BP_ToolHolder]
+[2020.05.10-10.48.24:578][203]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder_Auto1E190293B4844CD4A1A18CAB193819AD0.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Autosaves/Game/Blueprints/CharacterStuff/BP_ToolHolder_Auto1.uasset'
+[2020.05.10-10.48.24:579][203]LogFileHelpers: Auto-saving content packages took 0.009
+[2020.05.10-10.49.08:990][462]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-10.49.09:196][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.05.10-10.49.09:294][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-10.49.09:302][462]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolderC98DFED64119D9D33A2C828DAFD257BE.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-10.49.09:312][462]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-10.49.09:313][462]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-10.49.23:893][175]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CharacterStuff/BaseCharacter.BaseCharacter
+[2020.05.10-10.55.44:845][442]BlueprintLog: New page: Compile BaseCharacter
+[2020.05.10-10.55.45:059][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.05.10-10.55.45:154][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BaseCharacter" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BaseCharacter.uasset" SILENT=true
+[2020.05.10-10.55.45:171][442]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BaseCharacterDA8D73974A88179EC5AB3687237AABE3.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BaseCharacter.uasset'
+[2020.05.10-10.55.45:181][442]AssetCheck: New page: Asset Save: BaseCharacter
+[2020.05.10-10.55.45:181][442]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BaseCharacter.BaseCharacter
+[2020.05.10-10.56.09:443][312]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-10.56.09:644][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.05.10-10.56.09:754][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-10.56.09:763][312]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolderD7701E4B4595CD59CD8A1996DB479106.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-10.56.09:775][312]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-10.56.09:775][312]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-10.59.08:599][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.05.10-10.59.08:599][942]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.033
+[2020.05.10-10.59.08:600][942]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/CharacterStuff/BP_ToolHolder] ([1] browsable assets)...
+[2020.05.10-10.59.08:600][942]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CharacterStuff/BP_ToolHolder]
+[2020.05.10-10.59.08:608][942]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder_Auto2433300E64A383FCCA3B31281208BC5A8.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Autosaves/Game/Blueprints/CharacterStuff/BP_ToolHolder_Auto2.uasset'
+[2020.05.10-10.59.08:608][942]LogFileHelpers: Auto-saving content packages took 0.009
+[2020.05.10-11.06.09:058][998]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-11.06.09:286][998]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.05.10-11.06.09:395][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-11.06.09:408][998]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder830C8C964E27C0DEDD07E6A48AE81522.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-11.06.09:420][998]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-11.06.09:420][998]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-11.09.08:715][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.05.10-11.09.08:716][444]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.039
+[2020.05.10-11.09.08:716][444]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/CharacterStuff/BP_ToolHolder] ([1] browsable assets)...
+[2020.05.10-11.09.08:716][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CharacterStuff/BP_ToolHolder]
+[2020.05.10-11.09.08:728][444]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder_Auto3B466261648FFAAD2B1FF2A95D2E8BD8B.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Autosaves/Game/Blueprints/CharacterStuff/BP_ToolHolder_Auto3.uasset'
+[2020.05.10-11.09.08:728][444]LogFileHelpers: Auto-saving content packages took 0.013
+[2020.05.10-11.10.09:848][708]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-11.10.10:070][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.05.10-11.10.10:175][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-11.10.10:187][708]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder3D7699A049FD35FA36A41AABD6BDE91D.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-11.10.10:198][708]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-11.10.10:198][708]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-11.11.28:279][978]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-11.11.28:512][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.05.10-11.11.28:624][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-11.11.28:638][978]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolderE824AA3F4A7DCFE92AB917AD72F483D5.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-11.11.28:649][978]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-11.11.28:649][978]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-11.13.50:728][  1]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-11.13.50:953][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.05.10-11.18.50:331][651]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-11.18.50:546][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.05.10-11.18.50:634][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-11.18.50:648][651]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolderB3EBFC624BCF31F10920B6B3237FCA4B.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-11.18.50:659][651]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-11.18.50:659][651]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-11.19.05:739][443]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-11.19.05:948][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.05.10-11.19.06:048][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-11.19.06:061][443]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolderE1DCB6714ACCF4199CB69F8AD26FC192.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-11.19.06:073][443]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-11.19.06:073][443]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-11.23.33:584][483]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-11.23.33:586][483]LogClass: Warning: Type mismatch in NewVar_0 of BP_ToolHolder_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2020.05.10-11.23.33:807][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.05.10-11.23.33:895][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-11.23.33:908][483]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolderE64D355B42335F95E4EA899D7CB3EA04.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-11.23.33:919][483]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-11.23.33:919][483]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-11.23.39:185][ 94]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-11.23.39:399][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.05.10-11.23.39:496][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-11.23.39:509][ 94]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder9DE3CF7A418F13A6248378984AF1070F.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-11.23.39:521][ 94]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-11.23.39:521][ 94]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-11.26.08:592][786]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.05.10-11.26.09:791][786]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.10-11.26.09:912][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.05.10-11.26.30:244][186]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/CharacterStuff/ToolEnum.ToolEnum
+[2020.05.10-11.27.05:875][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/ToolEnum" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/ToolEnum.uasset" SILENT=true
+[2020.05.10-11.27.05:879][428]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/ToolEnumEC43B7264CE1CD83046F6B8BD0833318.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/ToolEnum.uasset'
+[2020.05.10-11.27.06:026][428]AssetCheck: New page: Asset Save: ToolEnum
+[2020.05.10-11.27.06:026][428]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/CharacterStuff/ToolEnum.ToolEnum
+[2020.05.10-11.27.11:281][ 51]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-11.27.11:488][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.05.10-11.27.11:591][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-11.27.11:606][ 51]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder2B2B37274D128367464DFDA982E4C510.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-11.27.11:619][ 51]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-11.27.11:619][ 51]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-11.49.47:894][794]BlueprintLog: New page: Compile BaseCharacter
+[2020.05.10-11.49.48:111][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.05.10-11.49.48:221][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BaseCharacter" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BaseCharacter.uasset" SILENT=true
+[2020.05.10-11.49.48:238][794]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BaseCharacterE6BA094D4F6187C039C67F9498C229A3.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BaseCharacter.uasset'
+[2020.05.10-11.49.48:250][794]AssetCheck: New page: Asset Save: BaseCharacter
+[2020.05.10-11.49.48:250][794]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BaseCharacter.BaseCharacter
+[2020.05.10-11.50.00:357][991]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.05.10-11.50.18:819][122]BlueprintLog: New page: Compile BaseCharacter
+[2020.05.10-11.50.18:826][122]LogClass: Warning: Type mismatch in CurrentTool of BaseCharacter_C - Previous (ObjectProperty) Current(ByteProperty) for package:  FObjectReader
+[2020.05.10-11.50.19:035][122]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.05.10-11.50.19:157][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BaseCharacter" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BaseCharacter.uasset" SILENT=true
+[2020.05.10-11.50.19:172][122]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BaseCharacter94743F0A46D6FCC52C4227BD3B3B7130.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BaseCharacter.uasset'
+[2020.05.10-11.50.19:185][122]AssetCheck: New page: Asset Save: BaseCharacter
+[2020.05.10-11.50.19:185][122]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BaseCharacter.BaseCharacter
+[2020.05.10-11.51.02:569][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.05.10-11.51.02:570][252]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.033
+[2020.05.10-11.51.02:570][252]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/CharacterStuff/BP_ToolHolder] ([1] browsable assets)...
+[2020.05.10-11.51.02:570][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CharacterStuff/BP_ToolHolder]
+[2020.05.10-11.51.02:585][252]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder_Auto4233585DA4178585C0DA3B7BEEAEFCC76.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Autosaves/Game/Blueprints/CharacterStuff/BP_ToolHolder_Auto4.uasset'
+[2020.05.10-11.51.02:585][252]LogFileHelpers: Auto-saving content packages took 0.016
+[2020.05.10-11.53.14:549][ 68]BlueprintLog: New page: Compile BaseCharacter
+[2020.05.10-11.53.14:765][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.05.10-11.53.17:074][324]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-11.53.17:075][324]LogBlueprint: Error: [Compiler BP_ToolHolder] In use pin  Current Held Tool  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.05.10-11.53.17:076][324]LogBlueprint: Error: [Compiler BP_ToolHolder] In use pin  Current Tool  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2020.05.10-11.53.17:076][324]LogBlueprint: Error: [Compiler BP_ToolHolder] In use pin  Current Held Tool  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2020.05.10-11.53.17:076][324]LogBlueprint: Error: [Compiler BP_ToolHolder] In use pin  Current Tool  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.05.10-11.53.17:076][324]LogClass: Warning: Type mismatch in CurrentHeldTool of BP_ToolHolder_C - Previous (ObjectProperty) Current(ByteProperty) for package:  FObjectReader
+[2020.05.10-11.53.17:285][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.05.10-11.53.17:369][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-11.53.17:381][324]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder4EB3DAD245AF6757244F6AB13CCDFEAC.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-11.53.17:395][324]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-11.53.17:395][324]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-11.53.45:515][563]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-11.53.45:752][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.05.10-11.53.45:852][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-11.53.45:865][563]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder95E4B92B476C78972BFC868D56EE54F0.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-11.53.45:878][563]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-11.53.45:878][563]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-11.54.01:468][395]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/CharacterStuff/ToolEnum.ToolEnum
+[2020.05.10-11.54.08:251][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/ToolEnum" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/ToolEnum.uasset" SILENT=true
+[2020.05.10-11.54.08:257][183]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/ToolEnum367421574768DB1EA6D97585376A20F3.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/ToolEnum.uasset'
+[2020.05.10-11.54.08:268][183]AssetCheck: New page: Asset Save: ToolEnum
+[2020.05.10-11.54.08:268][183]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/CharacterStuff/ToolEnum.ToolEnum
+[2020.05.10-11.54.13:698][822]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-11.54.13:919][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.05.10-11.55.21:764][696]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-11.55.21:976][696]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.05.10-11.55.22:084][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-11.55.22:097][696]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder64F2B30D4123945EA38A98BC9CABAE2A.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-11.55.22:107][696]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-11.55.22:107][696]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-11.55.29:232][495]SourceControl: fatal: E:/Unreal Engine/UE_4.24/Engine/Content: 'E:/Unreal Engine/UE_4.24/Engine/Content' is outside repository at 'E:/JS-Repos/SSRebuild/SolarSailerRebuild'
+[2020.05.10-11.55.44:040][495]LogSlate: Window 'Submit Files' being destroyed
+[2020.05.10-11.55.44:449][495]LogSourceControl: commit successful: [master 371df63] Holding Actor
+[2020.05.10-11.55.44:600][495]SourceControl: [master 371df63] Holding Actor
+[2020.05.10-11.55.44:600][495]SourceControl:  5 files changed, 0 insertions(+), 0 deletions(-)
+[2020.05.10-11.55.44:600][495]SourceControl:  create mode 100644 Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset
+[2020.05.10-11.55.44:600][495]SourceControl:  rewrite Content/Blueprints/CharacterStuff/BaseCharacter.uasset (87%)
+[2020.05.10-11.55.44:600][495]SourceControl:  create mode 100644 Content/Blueprints/CharacterStuff/ToolEnum.uasset
+[2020.05.10-11.55.44:604][495]SourceControl: Commited [master 371df63] Holding Actor.
+[2020.05.10-11.56.06:680][ 15]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-11.56.06:896][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.05.10-11.56.07:005][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-11.56.07:027][ 15]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder67369D174E5B4CE6F87F479DAF27CDE5.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-11.56.07:038][ 15]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-11.56.07:038][ 15]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-11.56.19:589][510]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-11.56.19:818][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.05.10-11.56.19:939][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-11.56.19:958][510]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder913D3D444098E0F117630DBE98AF9D6E.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-11.56.19:971][510]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-11.56.19:972][510]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-12.01.02:475][320]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(329)].
+[2020.05.10-12.01.02:532][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.05.10-12.01.02:533][320]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.038
+[2020.05.10-12.01.02:533][320]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/CharacterStuff/BP_ToolHolder] ([1] browsable assets)...
+[2020.05.10-12.01.02:548][320]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder]
+[2020.05.10-12.01.02:548][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CharacterStuff/BP_ToolHolder]
+[2020.05.10-12.01.02:566][320]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder_Auto5DECC8ED543B770AACCA998914675CEAA.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Autosaves/Game/Blueprints/CharacterStuff/BP_ToolHolder_Auto5.uasset'
+[2020.05.10-12.01.02:567][320]LogFileHelpers: Auto-saving content packages took 0.034
+[2020.05.10-12.05.52:038][472]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-12.05.52:255][472]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.05.10-12.05.52:367][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-12.05.52:387][472]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder4D66AC1145A75132A0E3C3A85E73EF77.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-12.05.52:397][472]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-12.05.52:397][472]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-12.06.08:062][314]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-12.06.08:282][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.05.10-12.06.08:404][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-12.06.08:431][314]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolderE41E9D714FF0E5FF804FE7AB59E4845F.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-12.06.08:442][314]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-12.06.08:443][314]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-12.13.24:839][462]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-12.13.25:054][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.05.10-12.14.09:264][655]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-12.14.09:487][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.05.10-12.14.09:590][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-12.14.09:613][655]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolderBCF65C2B42CF12DD812945BBB4CEE99F.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-12.14.09:627][655]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-12.14.09:627][655]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-12.19.51:984][699]LogActorFactory: Actor Factory created Cube
+[2020.05.10-12.19.52:376][745]LogActorFactory: Actor Factory created Cube
+[2020.05.10-12.20.18:308][762]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube)
+[2020.05.10-12.20.19:290][876]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube2)
+[2020.05.10-12.20.32:200][263]LogSlate: Window 'Create Merged Actor' being destroyed
+[2020.05.10-12.20.32:244][263]LogStaticMesh: Building static mesh Hammer...
+[2020.05.10-12.20.32:263][263]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Hammer.Hammer
+[2020.05.10-12.20.34:515][489]LogSlate: Window 'Merge Actors' being destroyed
+[2020.05.10-12.20.34:518][489]LogSlate: Window 'Merge Actors' being destroyed
+[2020.05.10-12.20.42:349][405]LogStaticMesh: Building static mesh FEMesh...
+[2020.05.10-12.20.42:367][405]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/FEMesh.FEMesh
+[2020.05.10-12.20.46:533][883]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-12.20.46:856][883]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2020.05.10-12.20.46:987][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-12.20.47:013][883]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder913AB0EF4988F5E2299997BFBDA91A9F.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-12.20.47:025][883]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-12.20.47:025][883]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-12.22.55:124][128]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.05.10-12.22.55:410][128]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Minimal_Default_Auto6D05E71D94A72ACA8A4833DA9EAD0AA98.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto6.umap'
+[2020.05.10-12.22.55:412][128]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.334
+[2020.05.10-12.22.55:412][128]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.334
+[2020.05.10-12.22.55:412][128]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/CharacterStuff/BP_ToolHolder] ([1] browsable assets)...
+[2020.05.10-12.22.55:423][128]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder]
+[2020.05.10-12.22.55:424][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CharacterStuff/BP_ToolHolder]
+[2020.05.10-12.22.55:447][128]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder_Auto6EFA84D2C4B68C4CB08A4FDA3A4607F3C.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Autosaves/Game/Blueprints/CharacterStuff/BP_ToolHolder_Auto6.uasset'
+[2020.05.10-12.22.55:447][128]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Hammer] ([1] browsable assets)...
+[2020.05.10-12.22.55:460][128]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Hammer.Hammer]
+[2020.05.10-12.22.55:460][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Hammer]
+[2020.05.10-12.22.55:460][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Hammer" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Autosaves/Game/Meshes/Hammer_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.05.10-12.22.55:473][128]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Hammer_Auto60B84460048D1A8A0BFE4D2AB8D96540D.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Autosaves/Game/Meshes/Hammer_Auto6.uasset'
+[2020.05.10-12.22.55:474][128]LogFileHelpers: Auto-saving content packages took 0.062
+[2020.05.10-12.28.05:563][273]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-12.28.05:829][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.05.10-12.28.05:958][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-12.28.05:981][273]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolderDD82FF8C4210C72E9BBFA981C5A5E450.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-12.28.05:994][273]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-12.28.05:994][273]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-12.28.11:589][906]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.05.10-12.28.11:833][906]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/Minimal_DefaultF3D53BFC40D68D68203FFEA1EDF3BBA7.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.05.10-12.28.11:854][906]LogFileHelpers: Saving map 'Minimal_Default' took 0.302
+[2020.05.10-12.28.11:854][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Hammer" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Meshes/Hammer.uasset" SILENT=true
+[2020.05.10-12.28.11:859][906]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/HammerB20A423C4DECA242AE0BF085155D7A98.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Meshes/Hammer.uasset'
+[2020.05.10-12.28.11:998][906]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.10-12.28.11:998][906]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.05.10-12.28.11:998][906]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Hammer.Hammer
+[2020.05.10-12.28.15:867][358]Cmd: DELETE
+[2020.05.10-12.28.15:867][358]Cmd: ACTOR DELETE
+[2020.05.10-12.28.15:871][358]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.10-12.28.15:872][358]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.10-12.28.15:908][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.05.10-12.28.15:910][358]LogEditorActor: Deleted 2 Actors (0.041 secs)
+[2020.05.10-12.28.26:401][571]SourceControl: fatal: E:/Unreal Engine/UE_4.24/Engine/Content: 'E:/Unreal Engine/UE_4.24/Engine/Content' is outside repository at 'E:/JS-Repos/SSRebuild/SolarSailerRebuild'
+[2020.05.10-12.28.33:496][571]LogSlate: Window 'Save Content' being destroyed
+[2020.05.10-12.28.47:039][571]LogSlate: Window 'Submit Files' being destroyed
+[2020.05.10-12.28.47:282][571]LogSourceControl: commit successful: [master 8cb40c2] VisualUpdates
+[2020.05.10-12.28.47:383][571]SourceControl: [master 8cb40c2] VisualUpdates
+[2020.05.10-12.28.47:383][571]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.05.10-12.28.47:383][571]SourceControl:  rewrite Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset (73%)
+[2020.05.10-12.28.47:383][571]SourceControl:  create mode 100644 Content/Meshes/Hammer.uasset
+[2020.05.10-12.28.47:387][571]SourceControl: Commited [master 8cb40c2] VisualUpdates.
+[2020.05.10-12.29.18:724][188]BlueprintLog: New page: Compile BP_ToolHolder
+[2020.05.10-12.29.19:015][188]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.05.10-12.29.19:157][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CharacterStuff/BP_ToolHolder" FILE="../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset" SILENT=true
+[2020.05.10-12.29.19:179][188]LogSavePackage: Moving '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Saved/BP_ToolHolder3FEA160C4D9189F6F14BA98C1B0D4BB7.tmp' to '../../../../../JS-Repos/SSRebuild/SolarSailerRebuild/Content/Blueprints/CharacterStuff/BP_ToolHolder.uasset'
+[2020.05.10-12.29.19:192][188]AssetCheck: New page: Asset Save: BP_ToolHolder
+[2020.05.10-12.29.19:192][188]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/CharacterStuff/BP_ToolHolder.BP_ToolHolder
+[2020.05.10-12.29.40:153][512]LogSlate: Window 'Submit Files' being destroyed
+[2020.05.10-12.29.40:363][512]LogSourceControl: commit successful: [master d9959f7] Tool holder v2
+[2020.05.10-12.29.40:409][512]SourceControl: [master d9959f7] Tool holder v2
+[2020.05.10-12.29.40:409][512]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.05.10-12.29.40:414][512]SourceControl: Commited [master d9959f7] Tool holder v2.
+[2020.05.10-12.29.45:382][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.05.10-12.29.46:691][ 46]LogSlate: Window 'Save Content' being destroyed
+[2020.05.10-12.29.46:734][ 46]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.05.10-12.29.46:736][ 46]LogSlate: Window 'SolarSailerRebuild - Unreal Editor' being destroyed
+[2020.05.10-12.29.46:790][ 46]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-12.29.46:790][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.10-12.29.46:835][ 46]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-12.29.46:835][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.10-12.29.46:870][ 46]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.10-12.29.46:870][ 46]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-12.29.46:870][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.10-12.29.46:990][ 47]Cmd: QUIT_EDITOR
+[2020.05.10-12.29.46:990][ 47]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.05.10-12.29.47:002][ 47]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.10-12.29.47:002][ 47]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.10-12.29.47:028][ 47]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.10-12.29.47:038][ 47]LogExit: Preparing to exit.
+[2020.05.10-12.29.47:359][ 47]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-12.29.47:363][ 47]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-12.29.47:366][ 47]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-12.29.47:368][ 47]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-12.29.47:370][ 47]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-12.29.47:372][ 47]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-12.29.47:374][ 47]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-12.29.47:406][ 47]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.05.10-12.29.47:422][ 47]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.10-12.29.47:422][ 47]LogExit: Editor shut down
+[2020.05.10-12.29.47:422][ 47]LogExit: Transaction tracking system shut down
+[2020.05.10-12.29.47:648][ 47]LogExit: Object subsystem successfully closed.
+[2020.05.10-12.29.47:670][ 47]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.10-12.29.47:690][ 47]LogModuleManager: Shutting down and abandoning module MeshBuilder (700)
+[2020.05.10-12.29.47:690][ 47]LogModuleManager: Shutting down and abandoning module BlueprintGraph (698)
+[2020.05.10-12.29.47:690][ 47]LogModuleManager: Shutting down and abandoning module AddContentDialog (696)
+[2020.05.10-12.29.47:691][ 47]LogModuleManager: Shutting down and abandoning module WidgetCarousel (695)
+[2020.05.10-12.29.47:691][ 47]LogModuleManager: Shutting down and abandoning module EditorWidgets (692)
+[2020.05.10-12.29.47:691][ 47]LogModuleManager: Shutting down and abandoning module CollectionManager (690)
+[2020.05.10-12.29.47:691][ 47]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (688)
+[2020.05.10-12.29.47:691][ 47]LogModuleManager: Shutting down and abandoning module SceneOutliner (686)
+[2020.05.10-12.29.47:691][ 47]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.05.10-12.29.47:691][ 47]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.05.10-12.29.47:691][ 47]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.05.10-12.29.47:692][ 47]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.05.10-12.29.47:693][ 47]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.05.10-12.29.47:693][ 47]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.05.10-12.29.47:693][ 47]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.05.10-12.29.47:693][ 47]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.05.10-12.29.47:693][ 47]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.05.10-12.29.47:693][ 47]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.05.10-12.29.47:693][ 47]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.05.10-12.29.47:693][ 47]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.05.10-12.29.47:694][ 47]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.05.10-12.29.47:694][ 47]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.05.10-12.29.47:694][ 47]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.05.10-12.29.47:694][ 47]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.05.10-12.29.47:694][ 47]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.05.10-12.29.47:694][ 47]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.05.10-12.29.47:695][ 47]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.05.10-12.29.47:695][ 47]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.05.10-12.29.47:695][ 47]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.05.10-12.29.47:695][ 47]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.05.10-12.29.47:695][ 47]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.05.10-12.29.47:695][ 47]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.05.10-12.29.47:695][ 47]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.05.10-12.29.47:695][ 47]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.05.10-12.29.47:695][ 47]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.05.10-12.29.47:695][ 47]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.05.10-12.29.47:696][ 47]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.05.10-12.29.47:697][ 47]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.05.10-12.29.47:698][ 47]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.05.10-12.29.47:698][ 47]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.05.10-12.29.47:698][ 47]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.05.10-12.29.47:698][ 47]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.05.10-12.29.47:698][ 47]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.05.10-12.29.47:698][ 47]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.05.10-12.29.48:434][ 47]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.05.10-12.29.48:434][ 47]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.05.10-12.29.48:435][ 47]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.05.10-12.29.48:435][ 47]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.05.10-12.29.48:435][ 47]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.05.10-12.29.48:435][ 47]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.05.10-12.29.48:435][ 47]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.05.10-12.29.48:435][ 47]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.05.10-12.29.48:437][ 47]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.05.10-12.29.48:437][ 47]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.05.10-12.29.48:437][ 47]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.05.10-12.29.48:437][ 47]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.05.10-12.29.48:437][ 47]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.05.10-12.29.48:437][ 47]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.05.10-12.29.48:437][ 47]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.05.10-12.29.48:437][ 47]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.05.10-12.29.48:437][ 47]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.05.10-12.29.48:437][ 47]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.05.10-12.29.48:437][ 47]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.05.10-12.29.48:437][ 47]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.05.10-12.29.48:438][ 47]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.05.10-12.29.48:438][ 47]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.05.10-12.29.48:439][ 47]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.05.10-12.29.48:439][ 47]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.05.10-12.29.48:472][ 47]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.05.10-12.29.48:472][ 47]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.05.10-12.29.48:472][ 47]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.05.10-12.29.48:474][ 47]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.05.10-12.29.48:474][ 47]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.05.10-12.29.48:474][ 47]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.05.10-12.29.48:474][ 47]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.05.10-12.29.48:475][ 47]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.05.10-12.29.48:475][ 47]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.05.10-12.29.48:475][ 47]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.05.10-12.29.48:475][ 47]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.05.10-12.29.48:484][ 47]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.05.10-12.29.48:484][ 47]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.05.10-12.29.48:484][ 47]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.05.10-12.29.48:484][ 47]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.05.10-12.29.48:485][ 47]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.05.10-12.29.48:485][ 47]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.05.10-12.29.48:486][ 47]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.05.10-12.29.48:486][ 47]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.05.10-12.29.48:486][ 47]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.05.10-12.29.48:487][ 47]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.05.10-12.29.48:490][ 47]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.05.10-12.29.48:499][ 47]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.05.10-12.29.48:500][ 47]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.05.10-12.29.48:501][ 47]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.05.10-12.29.48:501][ 47]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.05.10-12.29.48:501][ 47]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.05.10-12.29.48:501][ 47]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.05.10-12.29.48:501][ 47]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.05.10-12.29.48:501][ 47]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.05.10-12.29.48:501][ 47]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.05.10-12.29.48:501][ 47]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.05.10-12.29.48:501][ 47]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.05.10-12.29.48:501][ 47]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.05.10-12.29.48:501][ 47]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.05.10-12.29.48:502][ 47]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.05.10-12.29.48:503][ 47]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.05.10-12.29.48:503][ 47]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.05.10-12.29.48:503][ 47]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.05.10-12.29.48:503][ 47]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.05.10-12.29.48:503][ 47]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.05.10-12.29.48:503][ 47]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.05.10-12.29.48:604][ 47]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.05.10-12.29.48:705][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.05.10-12.29.48:705][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.05.10-12.29.48:705][ 47]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.05.10-12.29.48:705][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.05.10-12.29.48:705][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.05.10-12.29.48:705][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.05.10-12.29.48:705][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.05.10-12.29.48:705][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.05.10-12.29.48:705][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.05.10-12.29.48:705][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.05.10-12.29.48:705][ 47]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.10-12.29.48:705][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.05.10-12.29.48:705][ 47]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.05.10-12.29.48:705][ 47]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.05.10-12.29.48:705][ 47]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.05.10-12.29.48:706][ 47]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.05.10-12.29.48:706][ 47]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.05.10-12.29.48:706][ 47]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.05.10-12.29.48:706][ 47]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.05.10-12.29.48:706][ 47]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.05.10-12.29.48:707][ 47]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.05.10-12.29.48:707][ 47]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.05.10-12.29.48:707][ 47]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.05.10-12.29.48:707][ 47]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.05.10-12.29.48:707][ 47]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.05.10-12.29.48:708][ 47]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.05.10-12.29.48:708][ 47]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.05.10-12.29.48:708][ 47]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.05.10-12.29.48:708][ 47]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.05.10-12.29.48:708][ 47]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.05.10-12.29.48:710][ 47]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.05.10-12.29.48:710][ 47]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.05.10-12.29.48:710][ 47]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.05.10-12.29.48:710][ 47]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.05.10-12.29.48:710][ 47]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.05.10-12.29.48:711][ 47]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.05.10-12.29.48:711][ 47]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.05.10-12.29.48:711][ 47]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.05.10-12.29.48:711][ 47]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.05.10-12.29.48:711][ 47]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.05.10-12.29.48:712][ 47]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.05.10-12.29.48:712][ 47]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.05.10-12.29.48:713][ 47]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.05.10-12.29.48:713][ 47]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.05.10-12.29.48:713][ 47]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.05.10-12.29.48:713][ 47]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.05.10-12.29.48:713][ 47]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.05.10-12.29.48:713][ 47]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.05.10-12.29.48:713][ 47]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.05.10-12.29.48:714][ 47]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.05.10-12.29.48:714][ 47]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.05.10-12.29.48:714][ 47]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.05.10-12.29.48:714][ 47]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.05.10-12.29.48:714][ 47]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.05.10-12.29.48:714][ 47]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.05.10-12.29.48:714][ 47]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.05.10-12.29.48:714][ 47]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.05.10-12.29.48:714][ 47]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.05.10-12.29.48:714][ 47]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.05.10-12.29.48:714][ 47]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.05.10-12.29.48:714][ 47]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.05.10-12.29.48:715][ 47]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.05.10-12.29.48:715][ 47]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.05.10-12.29.48:716][ 47]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.05.10-12.29.48:716][ 47]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.05.10-12.29.48:716][ 47]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.05.10-12.29.48:716][ 47]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.05.10-12.29.48:716][ 47]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.05.10-12.29.48:716][ 47]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.05.10-12.29.48:717][ 47]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.05.10-12.29.48:717][ 47]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.05.10-12.29.48:717][ 47]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.05.10-12.29.48:718][ 47]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.05.10-12.29.48:718][ 47]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.05.10-12.29.48:718][ 47]LogDerivedDataCache: Shutdown
+[2020.05.10-12.29.48:718][ 47]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.05.10-12.29.48:718][ 47]LogXGEController: Cleaning working directory: C:/Users/Andre/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.10-12.29.48:718][ 47]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.05.10-12.29.48:718][ 47]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.05.10-12.29.48:718][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.05.10-12.29.48:718][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.05.10-12.29.48:718][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.05.10-12.29.48:718][ 47]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.05.10-12.29.48:719][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.05.10-12.29.48:719][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.05.10-12.29.48:719][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.05.10-12.29.48:719][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.05.10-12.29.48:719][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.05.10-12.29.48:719][ 47]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.05.10-12.29.48:719][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.05.10-12.29.48:719][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.05.10-12.29.48:719][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.05.10-12.29.48:719][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.05.10-12.29.48:719][ 47]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.05.10-12.29.48:719][ 47]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.05.10-12.29.48:719][ 47]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.05.10-12.29.48:719][ 47]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.05.10-12.29.48:719][ 47]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.05.10-12.29.48:721][ 47]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.05.10-12.29.48:722][ 47]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.05.10-12.29.48:722][ 47]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.05.10-12.29.48:722][ 47]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.05.10-12.29.48:722][ 47]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.05.10-12.29.48:722][ 47]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.05.10-12.29.48:722][ 47]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.05.10-12.29.48:722][ 47]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.05.10-12.29.48:722][ 47]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.05.10-12.29.48:723][ 47]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.05.10-12.29.48:734][ 47]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.05.10-12.29.48:734][ 47]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.05.10-12.29.48:736][ 47]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.05.10-12.29.48:736][ 47]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.05.10-12.29.48:761][ 47]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.05.10-12.29.48:761][ 47]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.10-12.29.48:762][ 47]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B70152623-40EA-B632-740D-4495B8AFB02B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=d928a5b54dc341e2a8125db50aa3d002%7C1b6fe990acbf43989f0bcfd7ce7b916e%7Cbbe4d147-8b38-4669-a92c-d0e9bb3e8fe3&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.05.10-12.29.48:769][ 47]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.05.10-12.29.48:771][ 47]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.05.10-12.29.48:773][ 47]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.05.10-12.29.48:773][ 47]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.05.10-12.29.48:774][ 47]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.05.10-12.29.48:774][ 47]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.05.10-12.29.48:774][ 47]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.05.10-12.29.48:774][ 47]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.05.10-12.29.48:774][ 47]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.05.10-12.29.48:774][ 47]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.05.10-12.29.48:774][ 47]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.05.10-12.29.48:774][ 47]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.10-12.29.48:774][ 47]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.10-12.29.48:775][ 47]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.10-12.29.48:775][ 47]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.10-12.29.48:776][ 47]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.10-12.29.48:776][ 47]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.10-12.29.48:776][ 47]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.10-12.29.48:778][ 47]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.10-12.29.48:779][ 47]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.10-12.29.48:779][ 47]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.10-12.29.48:779][ 47]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.10-12.29.48:779][ 47]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.10-12.29.48:779][ 47]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.10-12.29.48:779][ 47]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.10-12.29.48:779][ 47]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.10-12.29.48:779][ 47]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.10-12.29.48:779][ 47]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.10-12.29.48:779][ 47]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.10-12.29.48:779][ 47]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.10-12.29.48:783][ 47]LogD3D11RHI: Shutdown
+[2020.05.10-12.29.48:783][ 47]LogD3D11RHI: CleanupD3DDevice
+[2020.05.10-12.29.48:793][ 47]LogExit: Exiting.
+[2020.05.10-12.29.48:800][ 47]Log file closed, 05/10/20 13:29:48
